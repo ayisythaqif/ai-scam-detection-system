@@ -5,7 +5,7 @@ CSC649 Assignment 1 – Problem formulation, requirements and technology brief f
 # Web-Based AI Scam Detection System
 
 ## Project Summary
-A web-based system designed to help users assess suspicious URLs and check available scam-report information associated with phone numbers.
+CyberChief. A web-based system designed to help users assess suspicious URLs and check available scam-report information associated with phone numbers.
 
 ## Problem Statement
 Users may find it difficult to determine whether a website URL or phone number is associated with a scam. This project explores using machine learning to assess suspicious URLs and available scam-report information to support safer online decisions.
